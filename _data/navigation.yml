@@ -1,0 +1,41 @@
+
+main:
+#  - title: "Blog"
+#    url: /blog/
+
+  - title: "Mission"
+    url: /mission/
+
+  - title: "Members"
+    url: /members/
+
+  - title: "Products"
+    url: /products/
+
+#  - title: "Gallery"
+#    url: /gallery/
+
+#  - title: "About"
+#    url: /about/
+
+members:
+  - title: Founding Members
+    children:
+      - title: "ANT. Technolgies"
+        url: /members/anttech/
+      - title: "Connected Energy"
+        url: /members/connectedenergy/
+      - title: "Libre Solar"
+        url: /members/libresolar/
+
+  - title: Others
+#    children:
+#      - title: "Overview"
+#        url: /members/lalala/
+
+products:
+  - title: Solar
+    children:
+      - title: "Cloud Solar MPPT"
+        url: /products/cloudsolar/
+  - title: Wind
