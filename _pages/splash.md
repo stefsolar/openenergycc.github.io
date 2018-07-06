@@ -1,5 +1,5 @@
 ---
-title: "Open Sourcing the energy supply..."
+title: "Open sourcing energy access..."
 layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
