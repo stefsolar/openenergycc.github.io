@@ -25,15 +25,20 @@ members:
         url: /members/anttech/
       - title: "Connected Energy"
         url: /members/connectedenergy/
+      - title: "CREATIVenergie"
+        url: /members/creativenergie/
       - title: "Libre Solar"
         url: /members/libresolar/
+      - title: "University of Edinburgh"
+        url: /members/uni_edinburgh/
 
-  - title: Others
+#  - title: Others
 #    children:
 #      - title: "Overview"
 #        url: /members/lalala/
 
 products:
+  - title: Biogas
   - title: Solar
     children:
       - title: "Cloud Solar MPPT"
