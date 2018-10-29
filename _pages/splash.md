@@ -10,7 +10,7 @@ header:
   cta_label: "Find out more."
   cta_url: "/mission/"
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "We believe that open source technology can have a major impact towards renewable energy access for all."
+excerpt: "We believe that open source technology can have a major impact towards achieving renewable energy access for all."
 #feature_row:
 #  - image_path: images/team.jpg
 #    alt: "Collective Open Source Hardware"
