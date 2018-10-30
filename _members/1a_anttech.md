@@ -6,15 +6,18 @@ permalink: /members/anttech/
 
 ![ANT. technologies](/images/logo_anttechnologies.png)
 
-Ant. Technologies, a Berlin based company<!--, was founded in YEAR by NAMES-->. They have developed the modular Ant.home Energy Platform to facilitate greater energy access for consumers in low-income markets, offering an immediate solution to their energy service needs at an affordable price point. By enabling the consumer to plug in any existing 12VDC appliances and easily expand their energy supply incrementally over time, the Ant.home Energy Platform improves the utility of existing energy assets, and fosters sustainable growth of energy supply. Ant. Technologies have developed a simple, open, integrative platform for modern energy access allowing users to create their first Ant.home network with the starter kit; expand their network with any type of solar panel or battery; plug in all their existing 12VDC appliances from any supplier.
+Ant.technologies is a Germany-based open DC nanogrid project. The Ant.nanogrid integrates any low-power DC device, be it solar panels, batteries or appliances like LED lights, smartphones, laptops up to small refridgerators or water pumps. All of these devices can be plugged into the nanogrid using the Ant.socket as a gateway, which consists basically of an digitally controlled DC/DC-converter with certain control features to stabilize the nanogrid. The nanogrid established through the interconnection of these sockets can be modularly upgraded whenever the user needs to, for example by adding more PV panels to power more appliances.
+
+The target audience for this are on the one hand makers who are keen to experiement with solar energy and build their own solar-powered home nanogrid, for whom the Ant.socket becomes something of „the Arduino for nanogrids“.
+On the other hand, the target audience is based in developing economies, where the Ant.socket enables local initiatives to offer modularly growing solar-home-systems where upgrades are over-the-counter-affordable for the user with the energy demand usually growing over time. 
 
 <!--
 Ant. Technologies is a Founding Member of the Open Energy Access Alliance, officially joining on DATE. The hardware products for the energy access sector that they have made available through the OEAA are:
 
-1. Product one
-2. Product two
+1. Ant.socket (under development) hardware + software
+
 -->
 
-For further information on Ant. Technologies please [visit their website](https://ant-tech.org/).<!--, follow them on Instagram or Twitter using @xxx, or contact xxx -->
+For further information on Ant. Technologies please [visit their website](https://ant-tech.org/) or contact them at steffen@ant-tech.org .<!--, follow them on Instagram or Twitter using @xxx, or contact xxx -->
 
 
